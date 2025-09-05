@@ -1,0 +1,1 @@
+console.log('Ecrimesa Formación & Competencias API');
